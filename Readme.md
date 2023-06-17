@@ -45,5 +45,6 @@ Nosql :
 </ol>
 <h3>Q5. Explain any one DBMS Technology in your own words.</h3>
 <p>
-Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data.A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database. There are many DBMS technolgies one of them is Oracle Oracle Database is a commercial relational database management system. It utilizes enterprise-scale database technology with a robust set of features right out of the box. It can be stored in the cloud or on-premises.
+Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data. It deals with the storage, organisation and retrieval of data. It serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database. It consists of Kernal code, repository of metadata and query language. There are many DBMS technolgies one of them is Oracle. 
+Oracle Database is a first comercially available relational database management system. It is a portable version of Oracle Database. It utilizes enterprise-scale database technology with a robust set of features right out of the box. It can be stored in the cloud or on-premises.
 </p>
