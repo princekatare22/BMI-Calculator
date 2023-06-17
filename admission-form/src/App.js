@@ -9,12 +9,12 @@ function App() {
         <form>
           <p>
             <label htmlFor="name">Student Name : </label>
-            <input type="text" className="input" />
+            <input type="text" className="inputtext" />
             <br />
           </p>
           <p>
             <label htmlFor="enrollment">Enrollment Number : </label>
-            <input type="text" className="input" />
+            <input type="text" className="inputtext" />
             <br />
           </p>
           <p>
@@ -31,12 +31,12 @@ function App() {
           </p>
           <p>
             <label htmlFor="batch">Batch : </label>
-            <input type="text" className="input" />
+            <input type="text" className="inputtext" />
             <br />
           </p>
           <p>
             <h4 className="text1">Your Experience : </h4>
-            <textarea rows="5" cols="40">
+            <textarea rows="10" cols="60">
               Write about your experience in your Summer Internship
             </textarea>
             <br />

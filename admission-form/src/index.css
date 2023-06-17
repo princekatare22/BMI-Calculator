@@ -22,10 +22,14 @@ code {
   margin-left: 500px;
   height: 450px;
   width: 450px;
-  background-image: url(./images/back.png);
+  background-color: chocolate;
 }
 
 .heading {
   color: black;
   text-align: center;
+}
+
+.input {
+  width: 150px;
 }
