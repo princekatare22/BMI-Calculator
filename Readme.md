@@ -34,8 +34,8 @@ MySQL :
 <li>MySQL is a relational database that is based on a tabular design.</li>
 <li>A MySQL database is currently more popular.</li>
 <li>Static , fixed , predefined schema.</li>
-
 <li>It is vertically scalable.</li>
+</ol>
 
 Nosql :
 
@@ -45,7 +45,7 @@ Nosql :
 <li>No Sql has dynamic schema.</li>
 
 <li>It is horizontally scalable.</li>
-
+</ol>
 <h3>Q5. Explain any one DBMS Technology in your own words.</h3>
 <p>
 Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data.A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database. There are many DBMS technolgies one of them is Oracle Oracle Database is a commercial relational database management system. It utilizes enterprise-scale database technology with a robust set of features right out of the box. It can be stored in the cloud or on-premises.
