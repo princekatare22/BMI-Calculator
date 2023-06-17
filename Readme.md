@@ -33,12 +33,18 @@ MySQL :
 <ol>
 <li>MySQL is a relational database that is based on a tabular design.</li>
 <li>A MySQL database is currently more popular.</li>
-</ol>
+<li>Static , fixed , predefined schema.</li>
+
+<li>It is vertically scalable.</li>
+
 Nosql :
+
 <ol>
 <li>NoSQL is non-relational and has a document-based design</li>
 <li>Nosql is less popular</li>
-</ol>
+<li>No Sql has dynamic schema.</li>
+
+<li>It is horizontally scalable.</li>
 
 <h3>Q5. Explain any one DBMS Technology in your own words.</h3>
 <p>
