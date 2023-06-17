@@ -1,6 +1,7 @@
 <h3>Q1. Mention the working of Internet Website in Terms of Front-end & Back-end Divisions?</h3>
 <p>
-Any website on the internet mainly comprises of three components frontend,backend and the database.The backend is in charge of data storage and organisation whereas the frontend is what users view and interact with. HTML, JavaScript, and CSS are used to build the frontend. On the other hand, the backend, also known as the server-side, is made up of the server, which makes data available upon request, the application, which directs it, and the database, which compiles the data. Through middleware, the frontend communicates with the back end, which safeguards the data and answers the front end's inquiries.
+A working of a webpage is a combination of Working of frontend and backend technologies. Front-end development focuses on the user-facing side of a website also known as the User Interface(UI). The users experiencec the front-end, and the backend comprises of an individual structure, that makes the working of the front end possible.
+Backend makes a site interactive and dynamic. The user doesnt directly contact the server side of the website but do so with the help of the front end application. Backend ensures the working of the frontend and does the storing and arranging of the data.
 </p>
 
 <h3>Q2. What are tags in HTML? Explain the each category of tag with an Example.</h3>
